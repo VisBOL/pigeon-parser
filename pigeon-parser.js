@@ -21,7 +21,7 @@ function parsePigeon(input)
         '<': 'user-defined',
         '|': 'restriction-site',
         'z': 'origin-of-replication',
-        'x': 'user-defined',
+        'x': 'restriction-site',
         'd': 'user-defined',
         'v': 'v',
         '-': 'user-defined',
