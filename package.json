@@ -1,0 +1,19 @@
+{
+  "name": "pigeon-parser",
+  "version": "0.0.1",
+  "description": "Parser for the format used by the pigeoncad visualizer for synthetic biology designs",
+  "main": "pigeon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/visbol/pigeon-parser.git"
+  },
+  "author": "James McLaughlin",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/visbol/pigeon-parser/issues"
+  },
+  "homepage": "https://github.com/visbol/pigeon-parser"
+}
